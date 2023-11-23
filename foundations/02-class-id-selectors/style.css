@@ -1,5 +1,5 @@
 .odd {
-    color: rgb(214, 67, 89);
+    background-color: rgb(214, 67, 89);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
@@ -14,4 +14,6 @@
 
 #four {
     background-color: rgb(58, 221, 58);
+    font-size: 24px;
+    font-weight: bold;
 }
